@@ -4,7 +4,7 @@
 # 
 # AUTORES
 # Amezaga Campos Salvador
-# Gonzáles Cortés Jesica Alejandra
+# González Cortés Jessica Alejandra
 # Lincence: MIT
 #
 #------------------------------------------------
