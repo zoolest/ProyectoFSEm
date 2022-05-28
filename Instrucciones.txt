@@ -1,0 +1,6 @@
+Para comenzar a usar el programa se debe de descargar las carpetas necesarias que se encontran
+en el repositorio que es el siguiente:
+
+ Los pasos a seguir para ejecutar el programa serian: 
+ 1. Ejecutar el index.sh o mediante terminal con sudo ./index.sh
+ 2. Se instalarán todos los archivos al incio del programa

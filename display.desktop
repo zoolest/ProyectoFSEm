@@ -1,0 +1,4 @@
+
+[Desktop Entry]
+Name=RetroGaming
+Exec=/usr/bin/python3 /etc/RetroGaming/RetroGaming.py
